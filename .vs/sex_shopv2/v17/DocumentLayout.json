@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5324E2-0540-499C-8B49-926770DA9C16}|sex_shopv2\\sex_shopv2.Android\\sex_shopv2.Android.csproj|c:\\users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE5324E2-0540-499C-8B49-926770DA9C16}|sex_shopv2\\sex_shopv2.Android\\sex_shopv2.Android.csproj|solutionrelative:sex_shopv2\\sex_shopv2.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE5324E2-0540-499C-8B49-926770DA9C16}|sex_shopv2\\sex_shopv2.Android\\sex_shopv2.Android.csproj|C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE5324E2-0540-499C-8B49-926770DA9C16}|sex_shopv2\\sex_shopv2.Android\\sex_shopv2.Android.csproj|solutionrelative:sex_shopv2\\sex_shopv2.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B382C4F-B8B2-4DA8-BE7B-29957D5111E1}|sex_shopv2\\sex_shopv2\\sex_shopv2.csproj|c:\\users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\splashscreenpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B382C4F-B8B2-4DA8-BE7B-29957D5111E1}|sex_shopv2\\sex_shopv2\\sex_shopv2.csproj|solutionrelative:sex_shopv2\\sex_shopv2\\splashscreenpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B382C4F-B8B2-4DA8-BE7B-29957D5111E1}|sex_shopv2\\sex_shopv2\\sex_shopv2.csproj|c:\\users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\views\\confirmacioncomprapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B382C4F-B8B2-4DA8-BE7B-29957D5111E1}|sex_shopv2\\sex_shopv2\\sex_shopv2.csproj|solutionrelative:sex_shopv2\\sex_shopv2\\views\\confirmacioncomprapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B382C4F-B8B2-4DA8-BE7B-29957D5111E1}|sex_shopv2\\sex_shopv2\\sex_shopv2.csproj|c:\\users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\splashscreenpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{0B382C4F-B8B2-4DA8-BE7B-29957D5111E1}|sex_shopv2\\sex_shopv2\\sex_shopv2.csproj|solutionrelative:sex_shopv2\\sex_shopv2\\splashscreenpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B382C4F-B8B2-4DA8-BE7B-29957D5111E1}|sex_shopv2\\sex_shopv2\\sex_shopv2.csproj|c:\\users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\views\\carritopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B382C4F-B8B2-4DA8-BE7B-29957D5111E1}|sex_shopv2\\sex_shopv2\\sex_shopv2.csproj|solutionrelative:sex_shopv2\\sex_shopv2\\views\\carritopage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "sex_shopv2\\sex_shopv2.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2.Android\\MainActivity.cs",
+              "RelativeToolTip": "sex_shopv2\\sex_shopv2.Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:39:55.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "sex_shopv2\\sex_shopv2.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "sex_shopv2\\sex_shopv2.Android\\Properties\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-24T15:43:10.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SplashScreenPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\SplashScreenPage.xaml.cs",
+              "RelativeDocumentMoniker": "sex_shopv2\\sex_shopv2\\SplashScreenPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\SplashScreenPage.xaml.cs",
+              "RelativeToolTip": "sex_shopv2\\sex_shopv2\\SplashScreenPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:50:06.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SplashScreenPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\SplashScreenPage.xaml",
+              "RelativeDocumentMoniker": "sex_shopv2\\sex_shopv2\\SplashScreenPage.xaml",
+              "ToolTip": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\SplashScreenPage.xaml",
+              "RelativeToolTip": "sex_shopv2\\sex_shopv2\\SplashScreenPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T22:49:50.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarritoPage.cs",
+              "DocumentMoniker": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\Views\\CarritoPage.cs",
+              "RelativeDocumentMoniker": "sex_shopv2\\sex_shopv2\\Views\\CarritoPage.cs",
+              "ToolTip": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\Views\\CarritoPage.cs",
+              "RelativeToolTip": "sex_shopv2\\sex_shopv2\\Views\\CarritoPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:51:10.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfirmacionCompraPage.cs",
+              "DocumentMoniker": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\Views\\ConfirmacionCompraPage.cs",
+              "RelativeDocumentMoniker": "sex_shopv2\\sex_shopv2\\Views\\ConfirmacionCompraPage.cs",
+              "ToolTip": "C:\\Users\\ernesto23\\source\\repos\\sex_shopv2\\sex_shopv2\\sex_shopv2\\Views\\ConfirmacionCompraPage.cs",
+              "RelativeToolTip": "sex_shopv2\\sex_shopv2\\Views\\ConfirmacionCompraPage.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAkwJwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:01:56.456Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="sex_shopv2.login"
+             BackgroundColor="#A524E2">
+    <ContentPage.Content>
+        <Grid>
+            <StackLayout Spacing="10">
+                <Image Source="sexlogo.jpg" WidthRequest="150" HeightRequest="150" Scale="0.8" Aspect="AspectFit" Margin="-20"/>
+
+                <Label TextColor="White" VerticalOptions="Start" HorizontalOptions="CenterAndExpand" FontSize="Title" Margin="-5">Iniciar Sesión</Label>
+
+                <Frame BackgroundColor="#951B81" CornerRadius="65" Padding="10" Margin="10">
+                    <Entry x:Name="userv" PlaceholderColor="white" TextColor="White" Placeholder="Ingresa tu nombre de usuario"></Entry>
+                </Frame>
+                <Frame BackgroundColor="#951B81" CornerRadius="65" Padding="10" Margin="10">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+
+                        <Entry x:Name="passwor" Grid.Column="0" IsPassword="True" PlaceholderColor="White" TextColor="White" Placeholder="Ingresa tu contraseña"></Entry>
+                        <Button Clicked="Mostrar_Clicked" Grid.Column="1" HeightRequest="30" WidthRequest="30" BackgroundColor="Transparent" CornerRadius="20">
+                            <Button.ImageSource>
+                                <OnPlatform x:TypeArguments="ImageSource">
+                                    <On Platform="Android" Value="cloojo.png" />
+                                </OnPlatform>
+                            </Button.ImageSource>
+                        </Button>
+                    </Grid>
+                </Frame>
+                <Button Text="Ingresar" TextColor="#A524E2" CornerRadius="65" Margin="80,20,80,10" Clicked="button_clickead_2" BackgroundColor="White">
+                    </Button>
+                <Button Text="Registrarse" TextColor="#A524E2" CornerRadius="65" FontSize="15" Margin="80,10,80,10" Clicked="OnIrAOtraPaginaTapped"  BackgroundColor="White">
+                        
+                    </Button>
+
+               
+            </StackLayout>
+            
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

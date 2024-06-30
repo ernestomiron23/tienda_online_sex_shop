@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="sex_shopv2.registro"
+             BackgroundColor="#A524E2">
+    <ContentPage.Content>
+        <Grid>
+            <ScrollView>
+                <StackLayout>
+                    <Frame BackgroundColor="#66FFFFFF" CornerRadius="25" Margin="25" HasShadow="True">
+                        <StackLayout>
+                            <Label Text="Registro" TextColor="DarkMagenta" HorizontalOptions="CenterAndExpand" FontSize="Title" VerticalOptions="FillAndExpand"/>
+                            <Label TextColor="DarkMagenta">Nombre</Label>
+                            <Entry x:Name="name"></Entry>
+                            <Label TextColor="DarkMagenta">apellido</Label>
+                            <Entry x:Name="apellido"></Entry>
+                            <Label TextColor="DarkMagenta">correo</Label>
+                            <Entry x:Name="correo"></Entry>
+                            <Label TextColor="DarkMagenta">Contraseña</Label>
+                            <Entry x:Name="passwor" IsPassword="True"></Entry>
+                            <Label TextColor="DarkMagenta">telefono</Label>
+                            <Entry x:Name="phone1"></Entry>
+                            <Label TextColor="DarkMagenta">direccion</Label>
+                            <Entry x:Name="addresse"></Entry>
+                            <Label TextColor="DarkMagenta">ciudad</Label>
+                            <Entry x:Name="city"></Entry>
+                            <Label TextColor="DarkMagenta">estado</Label>
+                            <Entry x:Name="edo"></Entry>
+                            <Label TextColor="DarkMagenta">Codigo Postal</Label>
+                            <Entry x:Name="cpostal"></Entry>
+                            <Label TextColor="DarkMagenta">Pais</Label>
+                            <Entry x:Name="pais"></Entry>
+
+                            <Button Text="Registrar" CornerRadius="25" TextColor="#A524E2" BackgroundColor="White" Clicked="Button_Clicked_1">
+                            </Button>
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
